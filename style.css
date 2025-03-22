@@ -1270,7 +1270,7 @@ right: -25%;
     font-size: 20px;
 }
  
-@media (max-width: 430px ) {
+@media (max-width: 410px ) {
     body{
         min-height: 500vh;
         object-fit: cover;
