@@ -1269,9 +1269,10 @@ right: -25%;
     font-size: 20px;
 }
  
-@media (max-width: 600px ) {
+@media (max-width: 430px ) {
     body{
         min-height: 500vh;
+        object-fit: cover;
     }
     .search-container {
        top:9% ;
@@ -1354,8 +1355,10 @@ right: -25%;
         left: 24%;
     }
     .contact-link{
-        top: 484%;
-        left: 9%;
+        
+top: 484%;
+        
+left: 9%;
     }
     .contact-link a{
         font-size: 14px;
